@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hw/Howon/projects/udacity/Sensor Fusion/projects/SFND_Lidar_Obstacle_Detection-master/src/quiz/ransac/cluster",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DDISABLE_PCAP -DDISABLE_PNG -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Dqh_QHpointer -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -isystem /usr/include/vtk-6.3 -isystem /usr/include/freetype2 -isystem /usr/local/include/pcl-1.12 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -luuid  -g   -std=c++14 -msse4.2 -mfpmath=sse -fPIC -o CMakeFiles/quizCluster.dir/cluster.cpp.o -c \"/home/hw/Howon/projects/udacity/Sensor Fusion/projects/SFND_Lidar_Obstacle_Detection-master/src/quiz/cluster/cluster.cpp\"",
+  "file": "/home/hw/Howon/projects/udacity/Sensor Fusion/projects/SFND_Lidar_Obstacle_Detection-master/src/quiz/cluster/cluster.cpp"
+},
+{
+  "directory": "/home/hw/Howon/projects/udacity/Sensor Fusion/projects/SFND_Lidar_Obstacle_Detection-master/src/quiz/ransac/cluster",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7 -DDISABLE_PCAP -DDISABLE_PNG -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Dqh_QHpointer -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -isystem /usr/include/vtk-6.3 -isystem /usr/include/freetype2 -isystem /usr/local/include/pcl-1.12 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -luuid  -g   -std=c++14 -msse4.2 -mfpmath=sse -fPIC -o CMakeFiles/quizCluster.dir/home/hw/Howon/projects/udacity/Sensor_Fusion/projects/SFND_Lidar_Obstacle_Detection-master/src/render/render.cpp.o -c \"/home/hw/Howon/projects/udacity/Sensor Fusion/projects/SFND_Lidar_Obstacle_Detection-master/src/render/render.cpp\"",
+  "file": "/home/hw/Howon/projects/udacity/Sensor Fusion/projects/SFND_Lidar_Obstacle_Detection-master/src/render/render.cpp"
+}
+]

@@ -1,0 +1,17 @@
+{   
+    // 기본적으로 빌드 디렉토리는 ${workspaceRoot}/build 입니다. 이를 변경하려면
+    // ${workspaceRoot}/.vscode/settings.json을 열어서 다음 라인을 추가 합니다.
+
+    // ransac quiz build
+    // "cmake.sourceDirectory": "${workspaceFolder}/src/quiz/ransac",
+	// "cmake.buildDirectory" : "${workspaceRoot}/src/quiz/ransac/build"
+
+    // clustering part build
+    "cmake.sourceDirectory": "${workspaceFolder}",
+	"cmake.buildDirectory" : "${workspaceRoot}/build"
+
+    // cluster quiz build
+    // "cmake.sourceDirectory": "${workspaceFolder}/src/quiz/cluster",
+	// "cmake.buildDirectory" : "${workspaceRoot}/src/quiz/ransac/cluster"
+
+}
